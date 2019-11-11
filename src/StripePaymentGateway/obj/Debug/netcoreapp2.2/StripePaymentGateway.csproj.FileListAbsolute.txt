@@ -1,0 +1,11 @@
+F:\Workspace\stripegateway\src\StripePaymentGateway\bin\Debug\netcoreapp2.2\StripePaymentGateway.deps.json
+F:\Workspace\stripegateway\src\StripePaymentGateway\bin\Debug\netcoreapp2.2\StripePaymentGateway.runtimeconfig.json
+F:\Workspace\stripegateway\src\StripePaymentGateway\bin\Debug\netcoreapp2.2\StripePaymentGateway.runtimeconfig.dev.json
+F:\Workspace\stripegateway\src\StripePaymentGateway\bin\Debug\netcoreapp2.2\StripePaymentGateway.dll
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.csprojAssemblyReference.cache
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.csproj.CoreCompileInputs.cache
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.RazorAssemblyInfo.cache
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.RazorAssemblyInfo.cs
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.AssemblyInfoInputs.cache
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.AssemblyInfo.cs
+F:\Workspace\stripegateway\src\StripePaymentGateway\obj\Debug\netcoreapp2.2\StripePaymentGateway.RazorTargetAssemblyInfo.cache
