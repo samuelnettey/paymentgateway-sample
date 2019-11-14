@@ -1,2 +1,2 @@
 # stripegateway
-A C# stripe payment gateway
+A  payment gateway - Stripe, PayPal, SEPA
